@@ -9,7 +9,7 @@ To install the latest version of `compareUMAP` from GitHub, run the following co
 install.packages("httr")
 install.packages("jsonlite")
 install.packages("base64enc")
-remotes::install_github("jingyun20/GPTumap")
+remotes::install_github("jingyun20/compareUMAP")
 ```
 
 ##  🚀 Quick start
