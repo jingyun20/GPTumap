@@ -1,9 +1,9 @@
-# GPTumap: Visual comparison of UMAP plots using GPT-4o
+# compareUMAP: Visual comparison of UMAP plots using GPT-4o
 ====
 
 ## Installation 
 
-To install the latest version of `GPTumap` from GitHub, run the following commands in R:
+To install the latest version of `compareUMAP` from GitHub, run the following commands in R:
 
 ```{r eval = FALSE}
 install.packages("httr")
